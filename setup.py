@@ -6,12 +6,12 @@ long_description = open(os.path.join(root, 'README.rst')).read()
 
 setup(
     name='range-regex',
-    version='1.0.3',
+    version='1.0.4',
     description='Python numeric range regular expression generator',
     long_description=long_description,
-    url='http://github.com/dimka665/range-regex',
+    url='http://github.com/zhfreal/range-regex',
     author='Dmitry Voronin',
-    author_email='dimka665@gmail.com',
+    author_email='zhfreal@gmail.com',
     license='BSD',
     # packages=['range_regex'],
     packages=find_packages(),
