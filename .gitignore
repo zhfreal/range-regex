@@ -5,4 +5,7 @@ __pycache__
 .git
 .hg
 .idea
+build/
+dist/
+range_regex.egg-info/
 MANIFEST
