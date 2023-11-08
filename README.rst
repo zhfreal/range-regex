@@ -11,7 +11,7 @@ Installation
 
 or
 
-``git clone git://github.com/dimka665/range-regex.git``
+``git clone git://github.com/zhfreal/range-regex.git``
 
 Usage
 -----
